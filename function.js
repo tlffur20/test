@@ -23,6 +23,3 @@ function showMessage(message, from) {
 }
 showMessage('Hi!');
 
-console.log('hi')
-console.log('hi')
-console.log('hi')
